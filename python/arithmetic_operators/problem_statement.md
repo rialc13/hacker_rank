@@ -8,8 +8,8 @@ The provided code stub reads two integers from STDIN, `a`  and `b`. Add code to 
 
 ## Example
 
-`a = 3`
-`b = 5`
+- `a = 3`
+- `b = 5`
 
 Print the following:
 
@@ -50,6 +50,6 @@ Print the three lines as explained above.
 
 ## Explanation
 
-`3 + 2 = 5`
-`3 - 2 = 1`
-`3 * 2 = 6`
+- `3 + 2 = 5`
+- `3 - 2 = 1`
+- `3 * 2 = 6`
