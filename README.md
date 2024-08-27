@@ -8,8 +8,9 @@ This repository contains solutions to various coding challenges from [HackerRank
 
 - Each folder corresponds to a different category of programming language or challenge type.
 - Within each folder, you will find:
-  - The problem statement.
+  - The problem statement or a readme file (in case of any new concepts learnt).
   - The solution code.
+  Note: Initially a problem_statement.md file was created for each challenge. However to save time, subsequent challenges won't be containing this file. The link to the Hackerrank challenge will be mentioned in the 1st line of solution.py.
   
 ## How to Use
 
